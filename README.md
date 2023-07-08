@@ -7,7 +7,7 @@ The project is an E-skilled landing page with *html* and *css* only.
 
 It is meant for an online educational institution.
 
-The *assets* and projects guidlines were provided explicitely by **AMALITECH-GGMBH**.
+The *assets* and project's guidlines were provided explicitely by **AMALITECH-GGMBH**.
 
 ## AUTHOR:
 
